@@ -1,6 +1,6 @@
 {
   "name": "vue-navigator-online",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "navigator.onLine plugin for Vue.js",
   "homepage": "https://github.com/herrmannplatz/vue-navigator-online#readme",
   "repository": {
