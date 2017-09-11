@@ -20,6 +20,6 @@ Vue.use(VueOnlinePlugin)
 ```
 
 ```html
-<h1 v-if="online">I'm online</h1>
+<h1 v-if="isOnline">I'm online</h1>
 <h1 v-else>I'm offline</h1>
 ```
